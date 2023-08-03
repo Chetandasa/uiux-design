@@ -12,7 +12,7 @@ const Article = () => {
           <p>{date}</p>
           <h3>{text}</h3>
         </div>
-        <p>Read Full Article</p>
+        <p>Read Full Article </p>
       </div>
     </div>
   );
